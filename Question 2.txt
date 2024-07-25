@@ -1,0 +1,38 @@
+Q. 
+Discuss the various career paths after completing a web development course.
+
+
+Ans.
+Web-Development refers to the task of creating, building, maintaing various sorts of websites and web applications that can run on a browser.
+Learning Web-Development requires learning web design, web programming, and also managing databases. By mastering a web development course, 
+one can choose any of the following career paths:
+
+    1. Front-End Developer:
+    -> Front-End Developers handle the part of websites and applications that are visible to user, that a user can interact with. This includes 
+    mastering HTML (Hyper Text Markup Language) and CSS (Cascading Style Sheets). HTML helps in making the structure of the web page. And CSS 
+    helps in improving the eye-catchiness and the interface of the page.
+
+    2. Back-End Developer:
+    -> These developers handle everything aside from the looks and feels of the site. HTML and CSS help the site look good visually while These
+    Back-End developers handle all the back frame work of the website or the application. It uses technology like JavaScript with various other
+    frameworks on top of it. It includes tech like React, MongoDB, Exprexx, NodeJS. Using all of this one can handle the working of a website or
+    an application.
+
+    3. Full Stack Developer:
+    -> If someone can master both front-end and back-end engineers, he/she can become full stack web developer. This means that you can do both
+    front and back end jobs meaning you can make entire websites and applications by yourself. You can also make mobile applications.
+
+    4. Web Designer:
+    -> The job of a web designer is to manage the design and layout of websites. Web Designing is the process of planning, conceptualizing, and 
+    implementing the plan for designing a website in a way that is functional and offers a good user experience. User experience is central to 
+    web design. To become a web designer one must have deep understanding of UI(User Inferface) and UX(User Experience) and must be experienced 
+    with programs to make design elements. Programs like Adobe, Inkscape, CorelDraw are used to create animations, graphics, icons, logos, etc. 
+    
+    5. Web Administrator:
+    -> Website administrators help a company by maintaining its website and enhancing its online presence. A website administrator ensures that 
+    a website is functioning properly and maintaining the image that a company or organization wants to convey. This can involve working with the
+    technical side of websites, such as troubleshooting issues, setting up web hosts, ensuring users have access and programming servers. However, 
+    website administrators can also help with user-facing aspects of a website, like its appearance, navigation and use of media. 
+
+
+

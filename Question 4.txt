@@ -1,0 +1,36 @@
+Q. 
+What are the advantages of using a Version Control System like Git in a development project.
+
+
+Ans.
+Version control, also referred to as source control, is a software configuration system that handles changes to records, files, datasets, 
+or documents. Each modification is saved as a version, allowing for continuous updates and enhancements. These modifications create audit 
+trail that tracks the progress of each update, serving as platform for further improvements or leading to a final version. Version Control 
+is especially advantageous in the development of digital assets, binary files, and versioned code.
+
+Today, the most popular VCS is Git. Git is a distributed version control system that enables software development teams to have multiple 
+local copies of the project's codebase independent of each other. Git is known for its speed, workflow compatibility, and its open source 
+foundation.
+
+Advantages of VCS are as follows:
+
+    1. Traceability:
+    -> VCS records all revisions and changes over time, enabling users to track the file's development through its various stages. It can 
+    monitor contributions from different developers, following changes from the original version to the final iteration.
+
+    2. Branching and Merging:
+    -> VSC allows team members to work on the same documents concurrently and independently without affecting each other's contributions. 
+    Each contributor works on a separate stream of changes, known as a branch. Creating branches enables team members to work on the same 
+    project using multiple streams, which are independent of each other. This setup allows for merging their work later.
+
+    3. Reduction of Errors:
+    -> VCS reduces the duplication of outdated document versions, thereby minimizing errors from conflicting information. Documents that're
+    finalized after analysis should be converted to "read-only" status to restrict changes and prevent inaccuracies.
+
+    4. Efficiency:
+    -> VCS promotes efficient document progression, simplifying complex processes and enabling greater automation and consistency. The devs
+    can revert to earlier versions if errors are detected, facilitating easier testing and quicker problem detection with minimal user impact.
+
+    5. Document History:
+    -> The document's history offers valuable information about the author, editing dates, and the purpose of the changes. This information 
+    aids developers working on the latest version by helping them resolve issues experienced in earlier versions.

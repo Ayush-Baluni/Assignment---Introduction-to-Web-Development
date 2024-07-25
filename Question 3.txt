@@ -1,0 +1,37 @@
+Q. 
+Describe the role of a web browser's developer tools in web development.
+
+
+Ans.
+Browsers such as Chrome, Firefox, Edge, Brave etc. are used to browse the internet. But they also have an important tool for developers, 
+called 'developer tools' or 'dev tools'. These tools can help developers to test and debug the web app. Nowadays almost all web browsers
+come equipeed with these tools. These can be brought up by right clicking any page and clicking 'Inspect' option, or using the shortcut
+'Shift + Ctrl + I'. This gives access to many tools, listed as follows:
+
+    1. Elements Tool: 
+    -> This tool offers a DOM view, allowing you to inspect and debug the HTML and CSS code of a webpage. It also enables live editing of 
+    CSS, so you can see changes immediately in the browser.
+
+    2. Console Tool: 
+    -> This tool displays messages, errors, and warnings related to the webpage's JavaScript code. It also lets users write JavaScript code 
+    to retrieve information or manipulate the DOM.
+
+    3. Sources Tool: 
+    -> Acting as an in-browser editor, this tool provides various debugging utilities. It is particularly useful for editing JS files and
+    using breakpoints to debug code without needing an external IDE.
+
+    4. Network Tool: 
+    -> This tool shows network requests and responses, offering details about the resources being downloaded or uploaded. It provides the 
+    information such as resource type, size, and HTTP response status codes.
+
+    5. Performance Tool: 
+    -> This tool is used to analyze the performance of a fully loaded webpage. It helps you assess memory and CPU usage, presenting all the 
+    data in tables and graphs for easier analysis.
+
+    6. Memory Tool: 
+    -> This tool checks the webpage's memory usage, helping to identify potential memory leaks. It allows you to view and debug memory that 
+    hasn't been garbage collected.
+
+    7. Security Tool: 
+    -> This tool displays the security status of the webpage, including checking for valid HTTPS usage by the server. It provides details on 
+    certificates, encryption, and authentication for the various resources used by the webpage.

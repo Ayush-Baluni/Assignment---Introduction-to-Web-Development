@@ -1,0 +1,47 @@
+Q. 
+Explain the main components of client-server architecture and their functions.
+
+
+Ans.
+The client-server architecture is a distrubuted application framework that divides tasks between server and clients. They can either reside in 
+the same system or communicate through a network like the internet. There are three main components in a Client-Server Architecture, they are 
+as follows:
+
+    1. Workstations:
+
+    -> A workstation is the system of the user, or you can say it is the  "client's computer". Workstations use various kinds of Operating Systems, 
+    like Microsoft Windows, Linux, Ubuntu, etc. It sends requests to the server, or server asks the workstation for information and performs tasks
+    in the form of a central repository of programs, policies, files and databases. Workstations are required to work under policies befined by the 
+    server.
+    
+    Its functions are: 
+        a. To send signals/requests to the server side for data
+        b. To process whatever data/information is required by the server side
+        c. To manage state information and cookies
+        d. To send HTTP/HTTPS requests to the server
+
+    2. Servers:
+    -> A server is a high-performance device with a very fast processing speed and a robust storage and memory so that it can handle a big number
+    of requests from many clients simultaneously. A server serves as a central repository for network files, programs, databases, and regulations,
+    independent of the role it plays. It simplifies maintenance and backup because it does not depend on user setups and is able to be universally
+    deployed across network.
+
+    Its functions are:
+        a. To recieve signal/requests from the clients
+        b. TO manage all the resources such as databases, files, etc.
+        c. To manage sessions for each client
+        d. To ensure secure access to the resources through various mechanisms
+
+    3. Networking Devices:
+    -> In a client-server architecture, networking devices connect server to the workstations. It can be said that these networking devices are the
+    medium of communication for server and clients. 
+
+    Various networking devices have their own functions and attributes, these are as follows:
+        a. Repeaters - These function by transmitting data from one device to the other
+        b. Hubs - These help in connecting a server to various workstations
+        c. Bridges - These are employed for segmenting isolated networks
+
+
+
+
+
