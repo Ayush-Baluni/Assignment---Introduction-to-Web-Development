@@ -6,17 +6,15 @@ Ans.
 Text Editors and IDEs both can be used for writing codes, but each has their seperate features. Each one is decribed as below:
 
 1. Text Editors:
--> Text editors are designed for writing code and performing basic tasks such as cutting, pasting, and finding and replacing text. 
-They are also capable of opening and reading large files quickly. Text editors are simpler and require fewer hardware resources, 
-such as memory and processing power, compared to IDEs. Some popular text editors are - 'Sublime Text', 'Notepad++', 'Visual Studio
-Code' and 'Vim'.
+-> Text editors are designed for writing code and performing basic tasks such as cutting, pasting, and finding and replacing text. They are also capable of opening and reading large 
+files quickly. Text editors are simpler and require fewer hardware resources, such as memory and processing power, compared to IDEs. Some popular text editors are - 'Sublime Text', 
+'Notepad++', 'Visual Studio Code' and 'Vim'.
         
     Key Features of text editors:
-        a. Lightweight and Fast: Quick to load and responsive, even on less powerful hardware.
-        b. Syntax Highlighting: Highlights syntax for various programming languages to improve readability.
-        c. Customization: Highly customizable with themes, plugins, and extensions.
-        d. Basic Code Navigation: Line numbers, basic search, and navigation tools.
-        e. Cross-Platform Availability: Available on multiple operating systems like Windows, macOS, and Linux.
+        a. Quick to load and responsive, even on less powerful hardware.
+        b. Highlights syntax for various programming languages to improve readability.
+        c. Highly customizable with themes, plugins, and extensions.
+        d. Line numbers, basic search, and navigation tools.
 
     Uses of text editors:
         a. Writing and editing code for small projects or scripts.
@@ -25,18 +23,16 @@ Code' and 'Vim'.
 
 
 2. IDEs:
--> IDEs or 'Integrated Development Environments' are designed for developing, testing, and previewing code projects. They typically 
-include a code editor, a compiler or interpreter, and a debugger, all accessible through a unified graphical user interface (GUI). 
-The code editor is where the developer writes and edits source code, which the compiler then translates into  the machine-readable 
-language that can be executed by a computer. IDEs often demand more hardware resources, compared to text editors, that's why they're
-so capable. Examples of IDEs include - 'Codeanywhere', 'Eclipse', 'PyCharm' and 'NetBeans'.
+-> IDEs or 'Integrated Development Environments' are designed for developing, testing, and previewing code projects. They typically include a code editor, a compiler or interpreter, 
+and a debugger, all accessible through a unified GUI. The code editor is where the developer writes and edits source code, which the compiler then translates into the machine-readable 
+language that can be executed by a computer. IDEs often demand more hardware resources, compared to text editors, that's why they're so capable. Examples of IDEs include - 'Eclipse', 
+'Codeanywhere','PyCharm' and 'NetBeans'.
 
     Key Features of IDEs:
-        a. Integrated Tools: Combines code editor, compiler, debugger, and other tools within one application.
-        b. Code Completion: Offers intelligent code suggestions and auto-completion to speed up coding.
-        c. Advanced Debugging: Provides breakpoints, step-through debugging, and variable inspection.
-        d. Project Management: Manages complex projects with multiple files and dependencies.
-        e. Version Control Integration: Built-in support for version control systems like Git. 
+        a. Combines code editor, compiler, debugger, and other tools within one application.
+        b. Offers intelligent code suggestions and auto-completion to speed up coding.
+        c. Provides breakpoints, step-through debugging, and variable inspection.
+        e. Built-in support for version control systems like Git. 
 
     Uses of IDEs:
         a. Developing complex software projects that require integrated tools for coding, debugging, and testing.
