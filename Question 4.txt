@@ -19,7 +19,7 @@ Advantages of VCS are as follows:
     2. Branching and Merging:
     -> VSC allows team members to work on the same documents concurrently and independently without affecting each other's contributions. 
     Each contributor works on a separate stream of changes, known as a branch. Creating branches enables team members to work on the same 
-    project using multiple streams, which are independent of each other. This setup allows for merging their work later.
+    project using multiple streams, which are independent of each other.
 
     3. Reduction of Errors:
     -> VCS reduces the duplication of outdated document versions, thereby minimizing errors from conflicting information. Documents that're
